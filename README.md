@@ -10,7 +10,7 @@ Siempre busco aprender nuevas tecnologías y mejorar mis habilidades, mantenién
 🚀 **Mis habilidades incluyen:**
 
 -   Desarrollo de aplicaciones de escritorio y web
--   Programación en **_<u>Python_**, **_<u>Java_** y **_<u>PHP_**
+-   Programación en **_<u>Python</u>_**, **_<u>Java_** y **_<u>PHP_**
 -   Creación de interfaces con **_<u>HTML_** y **_<u>CSS_**
 -   Solución de problemas y optimización de código
 
