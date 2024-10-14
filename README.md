@@ -15,13 +15,7 @@ Siempre busco aprender nuevas tecnologías y mejorar mis habilidades, mantenién
 Estoy emocionado por colaborar en proyectos interesantes y seguir creciendo en mi carrera como desarrollador. ¡No dudes en contactarme para compartir ideas o colaborar en nuevas iniciativas!
 
 ## Encuéntrame en:
-[![Facebook](https://img.shields.io/badge/Facebook-@agusdev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/agustin.zaragozaperez)
-
-</br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustin_Zaragoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/agustin-zaragoza-perez-306345123/)
-
-[![Web](https://img.shields.io/badge/Web-agusdev.es-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.agusdev.es/)
+[![Facebook](https://img.shields.io/badge/Facebook-@agusdev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/agustin.zaragozaperez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustin_Zaragoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/agustin-zaragoza-perez-306345123/) [![Web](https://img.shields.io/badge/Web-agusdev.es-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.agusdev.es/)
 
 
 <!--
