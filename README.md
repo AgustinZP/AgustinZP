@@ -5,17 +5,24 @@ Soy un apasionado desarrollador de software con experiencia en una variedad de l
 
 Siempre busco aprender nuevas tecnologías y mejorar mis habilidades, manteniéndome al tanto de las tendencias del sector.
 
+ 🌱 Actualmente realizando **<u>"Curso de especialización en Inteligencia Artificial"**
+
 🚀 **Mis habilidades incluyen:**
 
 -   Desarrollo de aplicaciones de escritorio y web
--   Programación en **Python**, **Java** y **PHP**
--   Creación de interfaces con **HTML** y **CSS**
+-   Programación en **_<u>Python_**, **_<u>Java_** y **_<u>PHP_**
+-   Creación de interfaces con **_<u>HTML_** y **_<u>CSS_**
 -   Solución de problemas y optimización de código
 
 Estoy emocionado por colaborar en proyectos interesantes y seguir creciendo en mi carrera como desarrollador. ¡No dudes en contactarme para compartir ideas o colaborar en nuevas iniciativas!
 
 ## Encuéntrame en:
+
 [![Facebook](https://img.shields.io/badge/Facebook-@agusdev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/agustin.zaragozaperez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustin_Zaragoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/agustin-zaragoza-perez-306345123/) [![Web](https://img.shields.io/badge/Web-agusdev.es-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.agusdev.es/)
+
+## Contacto:
+
+[![Email](https://img.shields.io/badge/agustinzarpe@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:agustinzarpe@gmail.com)
 
 
 <!--
